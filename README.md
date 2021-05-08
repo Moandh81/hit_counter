@@ -5,4 +5,3 @@ Disclaimer the code is from Docker Hub Documentation at this link:
 
 [https://docs.docker.com/compose/gettingstarted/](https://docs.docker.com/compose/gettingstarted/)
 
-# this is a comment
